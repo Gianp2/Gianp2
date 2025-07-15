@@ -79,7 +79,8 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, enf
 
 ## 🎓 Educación y Formación
 
-- **Técnico Superior en Análisis Funcional de Sistemas Informáticos** - *Colegio Superior "Florentino Ameghino" Nº 47 – 2022-2025*
+- **Técnico Superior en Análisis Funcional de Sistemas Informáticos** - *Colegio Superior "Florentino Ameghino" Nº 47*
+
   -**Alfabetización Digital (Word, Excel)** 
 
 
