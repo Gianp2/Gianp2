@@ -24,7 +24,7 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** enfocado en constr
 |----------|-------------|
 | **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript · React.js · Tailwind CSS · Bootstrap |
 | **Backend** | PHP · Python |
-| **Base de Datos** | MySQL |
+| **Base de Datos** | MySQL | MongoDB
 | **Herramientas** | Git · GitHub · Vercel · VS Code |
 
 ---
