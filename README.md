@@ -29,26 +29,6 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** enfocado en constr
 
 ---
 
-## 📌 Proyectos Destacados
-
-### 🔹 [Portafolio Personal](https://github.com/Gianp2/portfolio) · [Demo](https://portfolio-gianp.vercel.app)
-Sitio web para mostrar mis proyectos y habilidades como desarrollador.  
-**Tecnologías:** React · Tailwind CSS · JavaScript
-
----
-
-### 🔹 [Sistema Gestor](https://github.com/Gianp2/sistema-gestor)
-App web para la gestión de datos con una interfaz intuitiva.  
-**Tecnologías:** PHP · MySQL · Bootstrap
-
----
-
-### 🔹 [Proyecto Experimental con React](https://github.com/Gianp2/react-lab)
-Proyecto en desarrollo para probar nuevas features de React y Tailwind.  
-**Tecnologías:** React · TypeScript · Tailwind CSS
-
----
-
 ## 🌟 ¿Por qué trabajar conmigo?
 
 ✅ **Creatividad + Técnica**: Diseño atractivo con código limpio  
