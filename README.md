@@ -81,7 +81,7 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, enf
 
 - **Técnico Superior en Análisis Funcional de Sistemas Informáticos** - *Colegio Superior "Florentino Ameghino" Nº 47*
 
-  -**Alfabetización Digital (Word, Excel)** 
+  - **Alfabetización Digital (Word, Excel)** 
 
 
 - **Programación Front-End** – *CECLA Nº 25*  
