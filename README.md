@@ -1,63 +1,88 @@
-¡Hola, soy Gianluca Pasquinelli! 👋
-Soy un Analista de Sistemas y Desarrollador Front-End de Las Parejas, Santa Fe, Argentina. Me apasiona construir aplicaciones web modernas, intuitivas y escalables, fusionando creatividad y tecnología para crear soluciones que resuelvan problemas reales. Mi enfoque proactivo y mi compromiso con el aprendizaje continuo me impulsan a entregar código limpio y experiencias de usuario excepcionales. 🚀
-🌍 Ubicación: Las Parejas, Santa Fe, Argentina🎯 Misión: Diseñar interfaces digitales que sean funcionales, atractivas y de alto impacto.🎮 En mi tiempo libre: Disfruto de videojuegos retro, experimento con nuevas tecnologías y me mantengo aprendiendo.
+<h1 align="center">¡Hola! Soy Gianluca Pasquinelli 👋</h1>
 
-🛠️ Habilidades Técnicas
+<p align="center">
+🧑‍💻 Desarrollador Front-End | 🎓 Analista de Sistemas <br>
+📍 Las Parejas, Santa Fe, Argentina <br>
+💡 Apasionado por crear experiencias web modernas, funcionales y escalables
+</p>
 
+---
 
+## 🚀 Sobre Mí
 
-Categoría
-Tecnologías
+Soy un **Desarrollador Front-End** y **Analista de Sistemas** enfocado en construir interfaces intuitivas, limpias y de alto impacto. Mi enfoque proactivo, pasión por la tecnología y compromiso con el aprendizaje continuo me impulsan a entregar soluciones innovadoras y eficientes.
 
+> 🎯 Misión: Diseñar productos digitales que fusionen **creatividad** y **funcionalidad** para resolver problemas reales.
 
+🕹️ En mi tiempo libre, disfruto de los videojuegos retro, explorar nuevas tecnologías y mejorar mis habilidades constantemente.
 
-Frontend
-HTML5, CSS3, JavaScript, TypeScript, React JS, Tailwind CSS, Bootstrap
+---
 
+## 🛠️ Tecnologías y Herramientas
 
-Backend
-PHP, Python
+| Categoría | Tecnologías |
+|----------|-------------|
+| **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript · React.js · Tailwind CSS · Bootstrap |
+| **Backend** | PHP · Python |
+| **Base de Datos** | MySQL |
+| **Herramientas** | Git · GitHub · Vercel · VS Code |
 
+---
 
-Bases de Datos
-MySQL
+## 📌 Proyectos Destacados
 
+### 🔹 [Portafolio Personal](https://github.com/Gianp2/portfolio) · [Demo](https://portfolio-gianp.vercel.app)
+Sitio web para mostrar mis proyectos y habilidades como desarrollador.  
+**Tecnologías:** React · Tailwind CSS · JavaScript
 
-Herramientas
-Git, GitHub, Vercel, VS Code
+---
 
+### 🔹 [Sistema Gestor](https://github.com/Gianp2/sistema-gestor)
+App web para la gestión de datos con una interfaz intuitiva.  
+**Tecnologías:** PHP · MySQL · Bootstrap
 
-👉 Explora mis repositorios para ver estas tecnologías en acción.
+---
 
-🌟 Proyectos Destacados
+### 🔹 [Proyecto Experimental con React](https://github.com/Gianp2/react-lab)
+Proyecto en desarrollo para probar nuevas features de React y Tailwind.  
+**Tecnologías:** React · TypeScript · Tailwind CSS
 
-[Portfolio Personal]Un sitio web personal desarrollado para mostrar mis proyectos y habilidades como desarrollador Front-End.🔗 Repositorio | DemoTecnologías: React, Tailwind CSS, JavaScript.
+---
 
-[Sistema Gestor]Una aplicación web para la gestión de datos, diseñada para optimizar procesos con una interfaz amigable.🔗 RepositorioTecnologías: PHP, MySQL, Bootstrap.
+## 🌟 ¿Por qué trabajar conmigo?
 
-[Proyecto Experimental con React]Un proyecto en curso para explorar nuevas funcionalidades de React y Tailwind CSS.🔗 RepositorioTecnologías: React, Tailwind CSS, TypeScript.
+✅ **Creatividad + Técnica**: Diseño atractivo con código limpio  
+✅ **Resolución de Problemas**: Enfoque práctico, soluciones escalables  
+✅ **Colaborativo**: Trabajo en equipo y constante feedback  
+✅ **Aprendizaje Continuo**: Siempre actualizado con las últimas tendencias
 
+---
 
+## 🏅 Logros y Certificaciones
 
-💡 ¿Por qué trabajar conmigo?
+- 📜 Certificación en Desarrollo Web – *[Plataforma, ej. freeCodeCamp, Platzi]* *(Año)*  
+- 🤝 Contribuidor Open Source – *[Nombre del proyecto o comunidad]* *(Año)*  
+- 🥈 Hackathon *[Nombre]* – Finalista con *[Breve descripción del proyecto]* *(Año)*
 
-Creatividad y Técnica: Combino diseño visual atractivo con código limpio y eficiente.  
-Resolución de Problemas: Desarrollo soluciones prácticas y escalables para desafíos complejos.  
-Colaboración: Valoro el trabajo en equipo y disfruto aprender de otros profesionales.  
-Aprendizaje Continuo: Me mantengo actualizado con las últimas tendencias en desarrollo web.
+---
 
+## 📈 Actividad en GitHub
 
-🏆 Logros y Certificaciones
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gianp2&show_icons=true&theme=radical&hide_title=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianp2&layout=compact&theme=radical" height="165" />
+</p>
 
-Certificación en Desarrollo Web – [Plataforma, ej. freeCodeCamp, Platzi] (Año)  
-Contribuidor Open Source – Participé en [nombre del proyecto o comunidad] (Año)  
-Hackathon [Nombre, si aplica] – Finalista por [descripción breve del proyecto] (Año)
+---
 
+## 📫 Conectemos
 
-📊 Mi Actividad en GitHub
+Estoy abierto a colaborar en proyectos interesantes, contribuir a open source o asumir nuevos desafíos profesionales.
 
+- 📧 **Email**: gianpasquinelli24@gmail.com  
+- 💼 **LinkedIn**: [Gianluca Pasquinelli](https://www.linkedin.com/in/gianpasquinelli)  
+- 🌐 **Portafolio**: [portfolio-gianp.vercel.app](https://portfolio-gianp.vercel.app)
 
-📫 ¡Conectemos!
-Estoy entusiasmado por colaborar en proyectos innovadores, contribuir a open source o asumir nuevos desafíos profesionales. ¡Hagamos algo increíble juntos! ✨  
-📧 Correo: gianpasquinelli24@gmail.com💼 LinkedIn: Gian Pasquinelli🌐 Portafolio: portfolio-gianp.vercel.app
-✨ ¿Listo para construir el futuro digital? ¡Contáctame y empecemos a crear! 😄
+---
+
+<h3 align="center">✨ ¿Listo para construir algo increíble juntos? ¡Hablemos! ✨</h3>
