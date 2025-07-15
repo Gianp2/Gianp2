@@ -14,7 +14,7 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, enf
 
 > 🎯 **Misión:** Diseñar interfaces y aplicaciones que fusionen **creatividad**, **usabilidad** y **eficiencia técnica** para resolver desafíos reales.
 
-🕹️ En mi tiempo libre, me apasionan los videojuegos retro, explorar nuevas tecnologías y seguir formándome constantemente.
+🕹️ En mi tiempo libre, me apasionan los videojuegos, explorar nuevas tecnologías y seguir formándome constantemente.
 
 ---
 
