@@ -77,20 +77,6 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, enf
 
 ---
 
-## 🎓 Educación y Formación
-
-- **Técnico Superior en Análisis Funcional de Sistemas Informáticos** - *Colegio Superior "Florentino Ameghino" Nº 47*
-
-  - **Alfabetización Digital (Word, Excel)** 
-
-
-- **Programación Front-End** – *CECLA Nº 25*  
-- **PHP y MySQL Avanzado** – *Universidad Tecnológica Nacional*  
-- **Marketing y Redes / Inglés Técnico / Informática Administrativa** – *CECLA Nº 111*  
-- **Secundario Completo** – *Dante Alighieri Nº 3154*
-
----
-
 ## 🌟 ¿Por qué trabajar conmigo?
 
 ✅ **Creatividad + Técnica:** Diseño visual atractivo con código limpio  
