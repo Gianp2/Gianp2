@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Gianluca Pasquinelli 👋</h1>
 
 <p align="center">
-🧑‍💻 Desarrollador Front-End | 🎓 Analista de Sistemas <br>
+🧑‍💻 Desarrollador Front-End | 🎓 Analista de Sistemas Funcional <br>
 📍 Las Parejas, Santa Fe, Argentina <br>
 💡 Apasionado por crear experiencias web modernas, funcionales y escalables
 </p>
