@@ -39,14 +39,14 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, ori
 ## 🎓 Educación y Formación
 
 - **Técnico Superior en Análisis Funcional de Sistemas Informáticos**  
-  *Colegio Superior Nº 47 "Florentino Ameghino" – 2022-2025*
+  *Colegio Superior "Florentino Ameghino" Nº 47 – 2022-2025*
   - **Alfabetización Digital (Word, Excel)**  
 
 
-- **Programación Front-End** – CECLA Nº 25  
-- **PHP y MySQL Avanzado** – Universidad Tecnológica Nacional  
-- **Marketing y Redes / Inglés Técnico / Informática Administrativa** – CECLA Nº 111  
-- **Secundario Completo** – Dante Alighieri Nº 3154
+- **Programación Front-End** – *CECLA Nº 25*
+- **PHP y MySQL Avanzado** – *Universidad Tecnológica Nacional*
+- **Marketing y Redes / Inglés Técnico / Informática Administrativa** – *CECLA Nº 111*
+- **Secundario Completo** – *Dante Alighieri Nº 3154*
 
 ---
 
