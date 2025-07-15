@@ -102,13 +102,13 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, enf
 
 ## 📌 Proyectos Destacados
 
-### 📊 [Stock-Master](https://github.com/Gianp2/StockMaster)
+### 📊 [Stock-Master](https://github.com/Gianp2/StockMaste)
 Gestor de stock profesional con CRUD, filtros, estadísticas (Chart.js), historial de cambios y exportación/importación vía CSV.  
 **Tecnologías:** JavaScript · Bootstrap 5 · Chart.js · LocalStorage
 
 ---
 
-### 🍽️ [Recetario Visual](https://github.com/Gianp2/Recetario-Visual)
+### 🍽️ [Recetario Visual](https://github.com/Gianp2/Recetario-visual)
 Gestor de recetas con edición dinámica de ingredientes, categorías y comentarios.  
 **Tecnologías:** JavaScript · HTML5 · CSS3 · LocalStorage
 
