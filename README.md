@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Gianluca Pasquinelli 👋</h1>
 
 <p align="center">
-🧑‍💻 Desarrollador Front-End | 🎓 Analista de Sistemas Funcional <br>
+🧑‍💻 Desarrollador Front-End | 🎓 Analista Funcional de Sistemas <br>
 📍 Las Parejas, Santa Fe, Argentina <br>
 💡 Apasionado por crear experiencias web modernas, funcionales y escalables
 </p>
@@ -10,11 +10,11 @@
 
 ## 🚀 Sobre Mí
 
-Soy un **Desarrollador Front-End** y **Analista de Sistemas** enfocado en construir interfaces intuitivas, limpias y de alto impacto. Mi enfoque proactivo, pasión por la tecnología y compromiso con el aprendizaje continuo me impulsan a entregar soluciones innovadoras y eficientes.
+Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, con una fuerte orientación a la **responsabilidad**, **resolución de problemas** y **colaboración en equipo**. Me adapto fácilmente a distintos entornos, aprendo rápido y disfruto aplicar nuevas tecnologías para entregar soluciones eficientes y de calidad.
 
-> 🎯 Misión: Diseñar productos digitales que fusionen **creatividad** y **funcionalidad** para resolver problemas reales.
+> 🎯 Misión: Diseñar interfaces y aplicaciones que fusionen **creatividad**, **usabilidad** y **eficiencia técnica** para resolver problemas reales.
 
-🕹️ En mi tiempo libre, disfruto de los videojuegos retro, explorar nuevas tecnologías y mejorar mis habilidades constantemente.
+🕹️ En mi tiempo libre me apasionan los videojuegos retro, explorar nuevas tecnologías y seguir formándome constantemente.
 
 ---
 
@@ -24,25 +24,65 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** enfocado en constr
 |----------|-------------|
 | **Frontend** | HTML5 · CSS3 · JavaScript · TypeScript · React.js · Tailwind CSS · Bootstrap |
 | **Backend** | PHP · Python |
-| **Base de Datos** | MySQL | MongoDB
-| **Herramientas** | Git · GitHub · Vercel · VS Code |
+| **Base de Datos** | MySQL · MongoDB · SQLite · Firebase |
+| **Herramientas** | Git · GitHub · Vercel · Visual Studio Code |
+
+---
+
+## 🗣️ Idiomas
+
+- 🇬🇧 **Inglés**: Intermedio (B1)  
+- 🇮🇹 **Italiano**: Intermedio Alto (B2)
+
+---
+
+## 🎓 Educación y Formación
+
+- 🎓 **Técnico Superior en Análisis Funcional de Sistemas Informáticos**  
+  *Colegio Superior Nº 47 "Florentino Ameghino" – 2022-2025*
+
+- 💼 **Programación Front-End** – CECLA Nº 25  
+- 💼 **PHP y MySQL Avanzado** – Universidad Tecnológica Nacional  
+- 📊 **Marketing y Redes / Inglés Técnico / Informática Administrativa** – CECLA Nº 111  
+- 🧠 **Alfabetización Digital (Word, Excel)**  
+- 🏫 **Secundario Completo** – Dante Alighieri Nº 3154
 
 ---
 
 ## 🌟 ¿Por qué trabajar conmigo?
 
-✅ **Creatividad + Técnica**: Diseño atractivo con código limpio  
-✅ **Resolución de Problemas**: Enfoque práctico, soluciones escalables  
-✅ **Colaborativo**: Trabajo en equipo y constante feedback  
-✅ **Aprendizaje Continuo**: Siempre actualizado con las últimas tendencias
+✅ **Creatividad + Técnica**: Diseño visual atractivo con código limpio  
+✅ **Resolución de Problemas**: Enfoque lógico y escalable  
+✅ **Adaptabilidad**: Me integro fácilmente a equipos y metodologías nuevas  
+✅ **Aprendizaje Continuo**: Siempre en busca de mejorar y crecer profesionalmente  
+
+---
+
+## 📌 Proyectos Destacados
+
+### 📊 [Stock-Master](https://github.com/Gianp2/StockMaster)
+Gestor de stock profesional con CRUD, filtros, ordenamiento, estadísticas (Chart.js), historial de cambios, y exportación/importación de productos vía CSV.  
+**Tecnologías:** JavaScript · Bootstrap 5 · Chart.js · LocalStorage
+
+---
+
+### 🍽️ [Recetario Visual](https://github.com/Gianp2/Recetario-Visual)
+App visual para gestionar recetas personalizadas por categoría, con edición dinámica de ingredientes y comentarios.  
+**Tecnologías:** JavaScript · HTML5 · CSS3 · LocalStorage
+
+---
+
+### 🏍️ [Tienda Motos](https://github.com/Gianp2/Tienda-Motos)
+Sitio web para una tienda de motos con carrusel de imágenes, animaciones y presentación visual de modelos.  
+**Tecnologías:** HTML5 · CSS3 · JavaScript
 
 ---
 
 ## 🏅 Logros y Certificaciones
 
-- 📜 Certificación en Desarrollo Web – *[Plataforma, ej. freeCodeCamp, Platzi]* *(Año)*  
-- 🤝 Contribuidor Open Source – *[Nombre del proyecto o comunidad]* *(Año)*  
-- 🥈 Hackathon *[Nombre]* – Finalista con *[Breve descripción del proyecto]* *(Año)*
+- 📜 Certificación en Desarrollo Web – *Plataforma (freeCodeCamp / Platzi)*  
+- 🤝 Contribuidor Open Source – *[Nombre del proyecto o comunidad]*  
+- 🥈 Hackathon *[Nombre]* – Finalista por *[breve descripción]*  
 
 ---
 
