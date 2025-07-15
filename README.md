@@ -140,7 +140,6 @@ Sitio web de tienda de motos con carrusel de imágenes, animaciones y presentaci
 
 - 📧 **Email:** gianpasquinelli24@gmail.com  
 - 💼 **LinkedIn:** [Gianluca Pasquinelli](https://www.linkedin.com/in/gianpasquinelli)  
-- 🌐 **Portafolio:** [portfolio-gianp.vercel.app](https://portfolio-gianp.vercel.app/)
 
 ---
 
