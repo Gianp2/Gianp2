@@ -1,70 +1,63 @@
 ¡Hola, soy Gianluca Pasquinelli! 👋
-Soy un Analista de Sistemas y Desarrollador Front-End de Las Parejas, Santa Fe, Argentina. Me apasiona crear aplicaciones web modernas, funcionales y escalables, fusionando creatividad y tecnología para resolver problemas del mundo real. Mi enfoque proactivo y mi amor por el aprendizaje continuo me impulsan a entregar soluciones de alta calidad que optimizan procesos y sorprenden a los usuarios. 🚀
-🌍 Ubicación: Las Parejas, Santa Fe, Argentina🎯 Misión: Diseñar experiencias digitales intuitivas y eficientes que marquen la diferencia.🎮 En mi tiempo libre: Exploro videojuegos retro, experimento con nuevas tecnologías y sigo aprendiendo.
+Soy un Analista de Sistemas y Desarrollador Front-End de Las Parejas, Santa Fe, Argentina. Me apasiona construir aplicaciones web modernas, intuitivas y escalables, fusionando creatividad y tecnología para crear soluciones que resuelvan problemas reales. Mi enfoque proactivo y mi compromiso con el aprendizaje continuo me impulsan a entregar código limpio y experiencias de usuario excepcionales. 🚀
+🌍 Ubicación: Las Parejas, Santa Fe, Argentina🎯 Misión: Diseñar interfaces digitales que sean funcionales, atractivas y de alto impacto.🎮 En mi tiempo libre: Disfruto de videojuegos retro, experimento con nuevas tecnologías y me mantengo aprendiendo.
 
 🛠️ Habilidades Técnicas
 
 
 
-Tecnología
+Categoría
+Tecnologías
 
 
 
-HTML5
+Frontend
+HTML5, CSS3, JavaScript, TypeScript, React JS, Tailwind CSS, Bootstrap
 
 
-
-CSS3
-
-
-
-JavaScript
+Backend
+PHP, Python
 
 
-
-TypeScript
-
-
-
-PHP
-
-
-
+Bases de Datos
 MySQL
 
 
-
-Python
-
-
-
-React JS
+Herramientas
+Git, GitHub, Vercel, VS Code
 
 
+👉 Explora mis repositorios para ver estas tecnologías en acción.
 
-Tailwind CSS
+🌟 Proyectos Destacados
+
+[Portfolio Personal]Un sitio web personal desarrollado para mostrar mis proyectos y habilidades como desarrollador Front-End.🔗 Repositorio | DemoTecnologías: React, Tailwind CSS, JavaScript.
+
+[Sistema Gestor]Una aplicación web para la gestión de datos, diseñada para optimizar procesos con una interfaz amigable.🔗 RepositorioTecnologías: PHP, MySQL, Bootstrap.
+
+[Proyecto Experimental con React]Un proyecto en curso para explorar nuevas funcionalidades de React y Tailwind CSS.🔗 RepositorioTecnologías: React, Tailwind CSS, TypeScript.
 
 
 
-Bootstrap
+💡 ¿Por qué trabajar conmigo?
+
+Creatividad y Técnica: Combino diseño visual atractivo con código limpio y eficiente.  
+Resolución de Problemas: Desarrollo soluciones prácticas y escalables para desafíos complejos.  
+Colaboración: Valoro el trabajo en equipo y disfruto aprender de otros profesionales.  
+Aprendizaje Continuo: Me mantengo actualizado con las últimas tendencias en desarrollo web.
 
 
+🏆 Logros y Certificaciones
 
-👉 Explora mis proyectos en mis repositorios para ver estas tecnologías en acción.
+Certificación en Desarrollo Web – [Plataforma, ej. freeCodeCamp, Platzi] (Año)  
+Contribuidor Open Source – Participé en [nombre del proyecto o comunidad] (Año)  
+Hackathon [Nombre, si aplica] – Finalista por [descripción breve del proyecto] (Año)
 
 
-🌟 ¿Por qué trabajar conmigo?
-
-Creatividad y Técnica: Combino diseño atractivo con código limpio y eficiente.
-Resolución de Problemas: Abordo desafíos con soluciones prácticas y escalables.
-Colaboración: Disfruto trabajar en equipo y aprender de otros profesionales.
-Aprendizaje Continuo: Siempre estoy actualizado con las últimas tendencias tecnológicas.
+📊 Mi Actividad en GitHub
 
 
 📫 ¡Conectemos!
-Estoy emocionado por colaborar en proyectos innovadores, contribuir a open source o asumir roles desafiantes. ¡Hagamos algo increíble juntos! ✨
-📧 Correo: gianpasquinelli24@gmail.com
-💼 LinkedIn: Gian Pasquinelli (https://www.linkedin.com/in/gian-pasquinelli/)
-🌐 Portafolio: portfolio-gianp.vercel.app (https://portfolio-gianp.vercel.app/)
-
+Estoy entusiasmado por colaborar en proyectos innovadores, contribuir a open source o asumir nuevos desafíos profesionales. ¡Hagamos algo increíble juntos! ✨  
+📧 Correo: gianpasquinelli24@gmail.com💼 LinkedIn: Gian Pasquinelli🌐 Portafolio: portfolio-gianp.vercel.app
 ✨ ¿Listo para construir el futuro digital? ¡Contáctame y empecemos a crear! 😄
