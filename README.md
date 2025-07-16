@@ -88,6 +88,12 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, enf
 
 ## 📌 Proyectos Destacados
 
+### 💸 [ExpenseTrack](https://github.com/Gianp2/expense-track)
+Gestor de gastos moderno con login, resumen financiero, alertas de presupuesto, gráficos interactivos y modo claro/oscuro.  
+**Tecnologías:** React · Tailwind CSS · Chart.js · LocalStorage · React Router
+
+---
+
 ### 📊 [Stock-Master](https://github.com/Gianp2/StockMaste)
 Gestor de stock profesional con CRUD, filtros, estadísticas (Chart.js), historial de cambios y exportación/importación vía CSV.  
 **Tecnologías:** JavaScript · Bootstrap 5 · Chart.js · LocalStorage
@@ -97,12 +103,6 @@ Gestor de stock profesional con CRUD, filtros, estadísticas (Chart.js), histori
 ### 🍽️ [Recetario Visual](https://github.com/Gianp2/Recetario-visual)
 Gestor de recetas con edición dinámica de ingredientes, categorías y comentarios.  
 **Tecnologías:** JavaScript · HTML5 · CSS3 · LocalStorage
-
----
-
-### 🏍️ [Tienda Motos](https://github.com/Gianp2/Tienda-Motos)
-Sitio web de tienda de motos con carrusel de imágenes, animaciones y presentación visual de modelos.  
-**Tecnologías:** HTML5 · CSS3 · JavaScript
 
 ---
 
