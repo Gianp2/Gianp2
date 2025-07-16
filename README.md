@@ -129,4 +129,4 @@ Gestor de recetas con edición dinámica de ingredientes, categorías y comentar
 
 ---
 
-<h3 align="center">✨ ¿Listo para construir algo increíble juntos? ¡Hablemos! ✨</h3>
+<h3 align="center">¿Listo para construir algo increíble juntos?</h3>
