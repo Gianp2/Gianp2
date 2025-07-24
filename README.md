@@ -108,7 +108,7 @@ Gestor de recetas con edición dinámica de ingredientes, categorías y comentar
 
 ## 🔗 Portafolio
 
-🔎 Visita mi portafolio para una muestra más visual de mis proyectos:  
+🔎 Visita mi portafolio:  
 🌐 [https://portfolio-gianp.vercel.app](https://portfolio-gianp.vercel.app)
 
 ---
