@@ -113,15 +113,6 @@ Gestor de recetas con edición dinámica de ingredientes, categorías y comentar
 
 ---
 
-## 📈 Estadísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gianp2&show_icons=true&theme=radical&hide_title=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gianp2&layout=compact&theme=radical" height="165" />
-</p>
-
----
-
 ## 📫 Conectemos
 
 - 📧 **Email:** gianpasquinelli24@gmail.com  
