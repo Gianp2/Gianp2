@@ -72,8 +72,8 @@ Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, enf
 
 ## 🗣️ Idiomas
 
-- 🇬🇧 **Inglés:** Intermedio (B1)  
-- 🇮🇹 **Italiano:** Intermedio Alto (B2)
+- **Inglés:** Intermedio (B1)  
+- **Italiano:** Intermedio Alto (B2)
 
 ---
 
