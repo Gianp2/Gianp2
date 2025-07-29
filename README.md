@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un **Desarrollador Front-End** y **Analista de Sistemas** en formación, enfocado en la **responsabilidad**, **colaboración** y **resolución de problemas**. Me adapto rápidamente a diferentes entornos y disfruto aplicar nuevas tecnologías para crear soluciones eficientes y de calidad.
+Soy un **Desarrollador Front-End** y **Analista de Sistemas**, enfocado en la **responsabilidad**, **colaboración** y **resolución de problemas**. Me adapto rápidamente a diferentes entornos y disfruto aplicar nuevas tecnologías para crear soluciones eficientes y de calidad.
 
 > 🎯 **Misión:** Diseñar interfaces y aplicaciones que fusionen **creatividad**, **usabilidad** y **eficiencia técnica** para resolver desafíos reales.
 
