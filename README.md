@@ -102,7 +102,12 @@ Gestor de stock profesional con CRUD, filtros, estadísticas (Chart.js), histori
 
 ### 🍽️ [Recetario Visual](https://github.com/Gianp2/Recetario-visual)
 Gestor de recetas con edición dinámica de ingredientes, categorías y comentarios.  
-**Tecnologías:** JavaScript · HTML5 · CSS3 · LocalStorage
+**Tecnologías:** PHP · MySQL · HTML5 · CSS3 · Bootstrap · JavaScript
+
+---
+
+### 🎮 [Catálogo de Juegos](https://github.com/Gianp2/catalogo-juegos)
+Aplicación web desarrollada como parte del curso de PHP y MySQL de la UTN - e-Learning. La app permite gestionar un catálogo de videojuegos, con funcionalidades para visualizar, agregar, editar y eliminar registros desde una base de datos.**Tecnologías:** JavaScript · Bootstrap 5 · Chart.js · LocalStorage
 
 ---
 
