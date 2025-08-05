@@ -109,6 +109,7 @@ Gestor de recetas con edición dinámica de ingredientes, categorías y comentar
 ### 🎮 [Catálogo de Juegos](https://github.com/Gianp2/catalogo-juegos)
 La app permite gestionar un catálogo de videojuegos, con funcionalidades para visualizar, agregar, editar y eliminar registros desde una base de datos.
 **Tecnologías:** PHP · MySQL · HTML5 · CSS3 · Bootstrap · JavaScript
+
 ---
 
 ## 📫 Conectemos
