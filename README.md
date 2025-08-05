@@ -106,13 +106,6 @@ Gestor de recetas con edición dinámica de ingredientes, categorías y comentar
 
 ---
 
-## 🔗 Portafolio
-
-🔎 Visita mi portafolio:  
-🌐 [https://portfolio-gianp.vercel.app](https://portfolio-gianp.vercel.app)
-
----
-
 ## 📫 Conectemos
 
 - 📧 **Email:** gianpasquinelli24@gmail.com  
