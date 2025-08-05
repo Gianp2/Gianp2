@@ -109,7 +109,7 @@ Gestor de recetas con edición dinámica de ingredientes, categorías y comentar
 ## 📫 Conectemos
 
 - 📧 **Email:** gianpasquinelli24@gmail.com  
-- 💼 **LinkedIn:** [Gianluca Pasquinelli](https://www.linkedin.com/in/gianpasquinelli)  
+- 💼 **LinkedIn:** [Gianluca Pasquinelli](https://www.linkedin.com/in/gian-pasquinelli/)  
 
 ---
 
