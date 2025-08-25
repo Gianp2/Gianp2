@@ -72,8 +72,8 @@ Soy un **Desarrollador Web** y **Analista de Sistemas**, enfocado en la **respon
 
 ## 🗣️ Idiomas
 
-- **Inglés:** Intermedio (B1)  
-- **Italiano:** Intermedio Alto (B2)
+- **Inglés:** B2
+- **Italiano:**  B2
 
 ---
 
