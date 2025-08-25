@@ -77,15 +77,6 @@ Soy un **Desarrollador Web** y **Analista de Sistemas**, enfocado en la **respon
 
 ---
 
-## 🌟 ¿Por qué trabajar conmigo?
-
-✅ **Creatividad + Técnica:** Diseño visual atractivo con código limpio  
-✅ **Resolución de Problemas:** Enfoque lógico y escalable  
-✅ **Adaptabilidad:** Rápida integración a equipos y nuevas metodologías  
-✅ **Aprendizaje Continuo:** Siempre actualizado con nuevas tendencias
-
----
-
 ## 📌 Proyectos Destacados
 
 ### 💸 [ExpenseTrack](https://github.com/Gianp2/expense-track)
