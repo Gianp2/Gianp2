@@ -70,39 +70,6 @@ Soy un **Desarrollador Web** y **Analista de Sistemas**, enfocado en la **respon
 
 ---
 
-## 🗣️ Idiomas
-
-- **Inglés:** B2
-- **Italiano:**  B2
-
----
-
-## 📌 Proyectos Destacados
-
-### 💸 [ExpenseTrack](https://github.com/Gianp2/expense-track)
-Gestor de gastos moderno con login, resumen financiero, alertas de presupuesto, gráficos interactivos y modo claro/oscuro.  
-**Tecnologías:** React · Tailwind CSS · Chart.js · LocalStorage · React Router
-
----
-
-### 📊 [Stock-Master](https://github.com/Gianp2/StockMaste)
-Gestor de stock profesional con CRUD, filtros, estadísticas (Chart.js), historial de cambios y exportación/importación vía CSV.  
-**Tecnologías:** JavaScript · Bootstrap 5 · Chart.js · LocalStorage
-
----
-
-### 🍽️ [Recetario Visual](https://github.com/Gianp2/Recetario-visual)
-Gestor de recetas con edición dinámica de ingredientes, categorías y comentarios.  
-**Tecnologías:** JavaScript · Bootstrap 5 · Chart.js · LocalStorage
-
----
-
-### 🎮 [Catálogo de Juegos](https://github.com/Gianp2/catalogo-juegos)
-La app permite gestionar un catálogo de videojuegos, con funcionalidades para visualizar, agregar, editar y eliminar registros desde una base de datos.   
-**Tecnologías:** PHP · MySQL · HTML5 · CSS3 · Bootstrap · JavaScript
-
----
-
 ## 📫 Conectemos
 
 - 📧 **Email:** gianpasquinelli24@gmail.com  
