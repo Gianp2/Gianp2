@@ -3,7 +3,6 @@
 <p align="center">
   🧑‍💻 <strong>Desarrollador de Software</strong> | 🎓 <strong>Analista Funcional de Sistemas</strong><br>
   📍 Las Parejas, Santa Fe, Argentina<br>
-  💡 Apasionado por crear experiencias web <strong>modernas</strong>, <strong>funcionales</strong> y <strong>escalables</strong>
 </p>
 
 ---
