@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! Soy Gianluca Pasquinelli 👋</h1>
 
 <p align="center">
-  🧑‍💻 <strong>Desarrollador Web</strong> | 🎓 <strong>Analista Funcional de Sistemas</strong><br>
+  🧑‍💻 <strong>Desarrollador de Software</strong> | 🎓 <strong>Analista Funcional de Sistemas</strong><br>
   📍 Las Parejas, Santa Fe, Argentina<br>
   💡 Apasionado por crear experiencias web <strong>modernas</strong>, <strong>funcionales</strong> y <strong>escalables</strong>
 </p>
@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre Mí
 
-Soy un **Desarrollador Web** y **Analista de Sistemas**, enfocado en la **responsabilidad**, **colaboración** y **resolución de problemas**. Me adapto rápidamente a diferentes entornos y disfruto aplicar nuevas tecnologías para crear soluciones eficientes y de calidad.
+Soy un **Desarrollador de Software** y **Analista de Sistemas**, enfocado en la **responsabilidad**, **colaboración** y **resolución de problemas**. Me adapto rápidamente a diferentes entornos y disfruto aplicar nuevas tecnologías para crear soluciones eficientes y de calidad.
 
 > 🎯 **Misión:** Diseñar interfaces y aplicaciones que fusionen **creatividad**, **usabilidad** y **eficiencia técnica** para resolver desafíos reales.
 
